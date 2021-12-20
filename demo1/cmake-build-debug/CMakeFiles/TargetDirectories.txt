@@ -1,0 +1,3 @@
+C:/Users/zzj/Documents/workspace/kafka/project/demo1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/zzj/Documents/workspace/kafka/project/demo1/cmake-build-debug/CMakeFiles/demo1.dir
+C:/Users/zzj/Documents/workspace/kafka/project/demo1/cmake-build-debug/CMakeFiles/edit_cache.dir

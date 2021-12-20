@@ -1,0 +1,1 @@
+/usr/local/gcc-9.3.0/bin/g++ -g CMakeFiles/demo1.dir/main.cpp.o -o demo1   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lrdkafka++ 

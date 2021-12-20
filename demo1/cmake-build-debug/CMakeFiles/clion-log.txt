@@ -1,0 +1,7 @@
+"C:\Program Files\JetBrains\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\zzj\Documents\workspace\kafka\project\demo1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/zzj/Documents/workspace/kafka/project/demo1/cmake-build-debug
+
+Cannot get compiler information:
+	Cannot run program "\usr\local\gcc-9.3.0\bin\g++" (in directory "C:\Users\zzj\Documents\workspace\kafka\project\demo1\cmake-build-debug"): CreateProcess error=2, 系统找不到指定的文件。

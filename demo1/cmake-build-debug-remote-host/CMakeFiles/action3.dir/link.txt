@@ -1,0 +1,1 @@
+/usr/local/gcc-9.3.0/bin/g++ -g CMakeFiles/action3.dir/main.cpp.o -o action3   -L/usr/local/lib  -Wl,-rpath,/usr/local/lib -lrdkafka++ 

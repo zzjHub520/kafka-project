@@ -1,0 +1,4 @@
+ToolSet: w64 6.0 (local)@C:\Users\zzj\Documents\workspace\LinkLibrary\mingw64
+Options: 
+
+Options:

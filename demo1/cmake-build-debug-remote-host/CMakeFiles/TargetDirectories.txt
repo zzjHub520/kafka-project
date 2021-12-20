@@ -1,0 +1,3 @@
+/home/zzj/workspaces/env/bigdata/kafka/test/demo1/cmake-build-debug-remote-host/CMakeFiles/demo1.dir
+/home/zzj/workspaces/env/bigdata/kafka/test/demo1/cmake-build-debug-remote-host/CMakeFiles/edit_cache.dir
+/home/zzj/workspaces/env/bigdata/kafka/test/demo1/cmake-build-debug-remote-host/CMakeFiles/rebuild_cache.dir
